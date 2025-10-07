@@ -104,8 +104,11 @@ score = (p + z²/2n - z√[(p(1-p) + z²/4n)/n]) / (1 + z²/n)
 Where:
 
 - p = positive votes / total votes
+
 - n = total number of votes
+
 - z = 1.96 (for 95% confidence)
+
 
 Both the rank position and rankScore are displayed (either as a decimal or percentage).
 
